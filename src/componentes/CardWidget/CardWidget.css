@@ -1,0 +1,16 @@
+.carrito{
+    left: 900px;
+    display: flex;
+    cursor: pointer;
+    position: relative;
+  }
+  .cantidad{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    font-size: 12px;
+    padding: 4px;
+    top: 1px;
+    left: 30px;
+    position: absolute;
+  }
